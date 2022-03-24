@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "82421ea8d5525919",
+    "type": "split",
+    "children": [
+      {
+        "id": "3888980d7cde80bd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Database/Типы предлагаемых услуг вышестоящим уровням.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "91aac70df35b44ad",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Database/Реализация надежных служб.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f6824704c99bf54",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b3a40993bf858f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "664058e0aa13067f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b950068b702517fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "физиче",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "36de2f82b9532836",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 403
+  },
+  "right": {
+    "id": "40ac8f8f8d317e57",
+    "type": "split",
+    "children": [
+      {
+        "id": "85b7e99f6a7de49c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b7787c2053834da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Database/Реализация надежных служб.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a641cfb2ce144be9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51804f5e345de48a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Database/Реализация надежных служб.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264,
+    "collapsed": true
+  },
+  "active": "91aac70df35b44ad",
+  "lastOpenFiles": [
+    "Database/Реализация надежных служб.md",
+    "Database/Надежность как ключевой аспект разработки сети.md",
+    "Database/Цель каждого уровня в иерархии протоколов.md",
+    "Database/Цель Компьютерных сетей в организациях.md",
+    "Database/Широковещательная передача.md",
+    "Database/Широковещательные сети.md",
+    "Database/Сервис без установления соединения.md",
+    "Database/Коммутация с промежуточной буферизацией.md",
+    "Database/Сервис с установлением соединения.md",
+    "Database/Типы предлагаемых услуг вышестоящим уровням.md"
+  ]
+}
