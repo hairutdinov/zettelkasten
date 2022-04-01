@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "17d011cd0399a01b",
+        "id": "8c7c8232af07d101",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -57,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403
+    "width": 403,
+    "collapsed": true
   },
   "right": {
     "id": "40ac8f8f8d317e57",
@@ -102,25 +103,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 264,
     "collapsed": true
   },
-  "active": "17d011cd0399a01b",
+  "active": "8c7c8232af07d101",
   "lastOpenFiles": [
-    "Files/IMG_0FD2AD684F64-1.jpeg",
-    "Database/Pasted image 20220325065756.png.md",
-    "Database/NFC Near Field Communication.md",
-    "Database/IMG_5A248C3ED2A8-1 1.jpeg.md",
-    "Database/Cлужба (сервис).md",
-    "Database/Равноранговые | Равноправные узлы сети.md",
-    "Database/Архитектура сети.md",
-    "Database/TSL Transport Layer Security.md",
-    "Database/SSL Secure Sockets Layer.md",
-    "Database/Технология передачи в сетях.md"
+    "Database/Ключевые аспекты разработки возникающие при создании сетей.md",
+    "Database/Важнейшие параметры в сетях.md",
+    "Database/Компьютерная сеть.md",
+    "Database/Закон Меткэйфла.md",
+    "Database/Локальная вычислительная сеть ЛВС.md",
+    "Database/Информационная Система (ИС) организации.md",
+    "Database/Цель Компьютерных сетей в организациях.md",
+    "Database/Компьютерные сети в организациях.md",
+    "Database/Различие между Компьютерными сетями и распределенной системой.md",
+    "Database/Распределенная система.md"
   ]
 }
