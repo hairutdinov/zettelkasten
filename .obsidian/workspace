@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3888980d7cde80bd",
+        "id": "17d011cd0399a01b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Database/Типы предлагаемых услуг вышестоящим уровням.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "91aac70df35b44ad",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Database/Реализация надежных служб.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -50,8 +36,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "физиче",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -87,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Реализация надежных служб.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Database/Реализация надежных служб.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -127,17 +110,17 @@
     "width": 264,
     "collapsed": true
   },
-  "active": "91aac70df35b44ad",
+  "active": "17d011cd0399a01b",
   "lastOpenFiles": [
-    "Database/Реализация надежных служб.md",
-    "Database/Надежность как ключевой аспект разработки сети.md",
-    "Database/Цель каждого уровня в иерархии протоколов.md",
-    "Database/Цель Компьютерных сетей в организациях.md",
-    "Database/Широковещательная передача.md",
-    "Database/Широковещательные сети.md",
-    "Database/Сервис без установления соединения.md",
-    "Database/Коммутация с промежуточной буферизацией.md",
-    "Database/Сервис с установлением соединения.md",
-    "Database/Типы предлагаемых услуг вышестоящим уровням.md"
+    "Files/IMG_0FD2AD684F64-1.jpeg",
+    "Database/Pasted image 20220325065756.png.md",
+    "Database/NFC Near Field Communication.md",
+    "Database/IMG_5A248C3ED2A8-1 1.jpeg.md",
+    "Database/Cлужба (сервис).md",
+    "Database/Равноранговые | Равноправные узлы сети.md",
+    "Database/Архитектура сети.md",
+    "Database/TSL Transport Layer Security.md",
+    "Database/SSL Secure Sockets Layer.md",
+    "Database/Технология передачи в сетях.md"
   ]
 }
