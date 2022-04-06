@@ -40,5 +40,23 @@
       ],
       "key": "E"
     }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "workspace:split-horizontal": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
   ]
 }
