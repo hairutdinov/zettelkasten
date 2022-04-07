@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "691a6ccc6ef0eeb5",
+        "id": "7bcecdc23e0ec73a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Database/Канальный Уровень передачи данных модели OSI Data link.md",
+            "file": "Database/Коммутируемый Ethernet.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "73b945c1adcccff2",
+        "id": "91e5d336f7ff30d0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Database/Технологии канального уровня.md",
+            "file": "Database/Алгоритм прозрачного моста.md",
             "mode": "source"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#question",
+                "query": "адрес полу",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Технологии канального уровня.md",
+                "file": "Database/Алгоритм прозрачного моста.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Технологии канального уровня.md"
+                "file": "Database/Алгоритм прозрачного моста.md"
               }
             }
           }
@@ -127,17 +128,17 @@
     "width": 264,
     "collapsed": true
   },
-  "active": "73b945c1adcccff2",
+  "active": "91e5d336f7ff30d0",
   "lastOpenFiles": [
-    "Database/Технологии канального уровня.md",
-    "Database/Канальный Уровень передачи данных модели OSI Data link.md",
-    "Database/LLC logical link control.md",
-    "Database/MAC media access control.md",
-    "Database/Обнаружение и исправление ошибок на канальном уровне OSI.md",
-    "Database/Методы повторной отправка данных.md",
-    "Database/Методы выделения кадров на канальном уровне.md",
-    "Database/Средства физического уровня.md",
-    "Database/Вставка битов (bit stuffing).md",
-    "Database/Вставка байтов (byte stuffing).md"
+    "Database/Алгоритм прозрачного моста.md",
+    "Database/Сетевой мост.md",
+    "Database/Общение между уровнями в сети.md",
+    "Database/Коммутируемый Ethernet.md",
+    "Database/Алгоритм обратного обучения.md",
+    "Database/Таблица коммутации.md",
+    "Database/Различие коммутатора от концентратора.md",
+    "Database/Классический Ethernet.md",
+    "CSMA/CD Carrier sense multiple Access with Collision Detection.md",
+    "Database/Ethernet.md"
   ]
 }
