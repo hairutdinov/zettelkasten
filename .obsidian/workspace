@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Database/Коммутируемый Ethernet.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "91e5d336f7ff30d0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Database/Алгоритм прозрачного моста.md",
+            "file": "Database/Virtual Private Networks (VPN) Виртуальные частные сети (ВЧС).md",
             "mode": "source"
           }
         }
@@ -67,13 +56,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 403,
-    "collapsed": true
+    "width": 403
   },
   "right": {
     "id": "40ac8f8f8d317e57",
@@ -89,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Алгоритм прозрачного моста.md",
+                "file": "Database/Virtual Private Networks (VPN) Виртуальные частные сети (ВЧС).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Алгоритм прозрачного моста.md"
+                "file": "Database/Virtual Private Networks (VPN) Виртуальные частные сети (ВЧС).md"
               }
             }
           }
@@ -128,17 +115,17 @@
     "width": 264,
     "collapsed": true
   },
-  "active": "91e5d336f7ff30d0",
+  "active": "7bcecdc23e0ec73a",
   "lastOpenFiles": [
-    "Database/Алгоритм прозрачного моста.md",
-    "Database/Сетевой мост.md",
-    "Database/Общение между уровнями в сети.md",
-    "Database/Коммутируемый Ethernet.md",
-    "Database/Алгоритм обратного обучения.md",
-    "Database/Таблица коммутации.md",
-    "Database/Различие коммутатора от концентратора.md",
-    "Database/Классический Ethernet.md",
-    "CSMA/CD Carrier sense multiple Access with Collision Detection.md",
-    "Database/Ethernet.md"
+    "Database/Virtual Private Networks (VPN) Виртуальные частные сети (ВЧС).md",
+    "Database/VLAN Virtual Local Area Network.md",
+    "Database/Взаимодействие клиент-сервера с использованием дейтаграмм.md",
+    "Database/Вставка байтов (byte stuffing).md",
+    "Database/Важнейшие параметры в сетях.md",
+    "Database/Байтовые потоки (потоки байт).md",
+    "Database/Базовые топологии.md",
+    "Database/Архитектура сети.md",
+    "Database/Архитектура Интернета.md",
+    "Database/Алгоритм обратного обучения.md"
   ]
 }

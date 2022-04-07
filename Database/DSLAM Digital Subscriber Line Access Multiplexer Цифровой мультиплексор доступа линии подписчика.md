@@ -1,6 +1,5 @@
 202204040717
-Tags: #
-
+Tags:s#компьютерные_сетиs
 ---
 
 # DSLAM Digital Subscriber Line Access Multiplexer Цифровой мультиплексор доступа линии подписчика

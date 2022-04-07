@@ -44,8 +44,8 @@
   "workspace:split-vertical": [
     {
       "modifiers": [
-        "Ctrl",
-        "Mod"
+        "Alt",
+        "Shift"
       ],
       "key": "ArrowRight"
     }
@@ -53,8 +53,8 @@
   "workspace:split-horizontal": [
     {
       "modifiers": [
-        "Ctrl",
-        "Mod"
+        "Alt",
+        "Shift"
       ],
       "key": "ArrowDown"
     }
