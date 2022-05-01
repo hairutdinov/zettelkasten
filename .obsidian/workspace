@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Database/Маска подсети.md",
+            "file": "Database/Маршрутизация на сетевом уровне OSI.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Маска подсети.md",
+                "file": "Database/Маршрутизация на сетевом уровне OSI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Маска подсети.md"
+                "file": "Database/Маршрутизация на сетевом уровне OSI.md"
               }
             }
           }
@@ -117,15 +117,15 @@
   },
   "active": "d92b463780aec98c",
   "lastOpenFiles": [
+    "Database/Маршрутизация на сетевом уровне OSI.md",
+    "Database/Формат заголовка IP пакета.md",
+    "Database/Протокол IP Internet Protocol.md",
+    "Database/IP адреса в OSI.md",
+    "Database/Типы IP адресов.md",
+    "Database/Специальные IP адреса.md",
     "Database/Маска подсети.md",
     "Database/Структура IP адреса.md",
-    "Database/IP адреса в OSI.md",
     "Database/Сетевой уровень модели OSI Network.md",
-    "Database/Различия сетей на канальном уровне.md",
-    "Database/Сети с передачей от узла к узлу.md",
-    "Database/Сетевой уровень модели OSI.md",
-    "Database/Транспортный уровень модели OSI.md",
-    "Database/Канальный Уровень передачи данных модели OSI Data link.md",
-    "Database/Межсетевой уровень модели TCP-IP.md"
+    "Database/Различия сетей на канальном уровне.md"
   ]
 }

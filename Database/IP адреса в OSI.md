@@ -24,6 +24,9 @@ Tags: #
 - 213.180.192.254
 Маршрутизаторы работают с подсетями. 
 
+### Распределение IP адресов
+Internet Assigned Numbers Authority (IANA). Реализуется корпорацией Internet Corporation for Assigned Names And Numbers (ICANN)
+
 ---
 ## Links
 - [[Сетевой уровень модели OSI Network]]
