@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d92b463780aec98c",
+        "id": "33a6f5b6c1f9fef7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Database/Маршрутизация на сетевом уровне OSI.md",
+            "file": "Database/Транспортный уровень модели OSI Transport.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Маршрутизация на сетевом уровне OSI.md",
+                "file": "Database/Транспортный уровень модели OSI Transport.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Маршрутизация на сетевом уровне OSI.md"
+                "file": "Database/Транспортный уровень модели OSI Transport.md"
               }
             }
           }
@@ -115,17 +115,17 @@
     "width": 264,
     "collapsed": true
   },
-  "active": "d92b463780aec98c",
+  "active": "33a6f5b6c1f9fef7",
   "lastOpenFiles": [
-    "Database/Маршрутизация на сетевом уровне OSI.md",
-    "Database/Формат заголовка IP пакета.md",
-    "Database/Протокол IP Internet Protocol.md",
-    "Database/IP адреса в OSI.md",
-    "Database/Типы IP адресов.md",
-    "Database/Специальные IP адреса.md",
-    "Database/Маска подсети.md",
-    "Database/Структура IP адреса.md",
-    "Database/Сетевой уровень модели OSI Network.md",
-    "Database/Различия сетей на канальном уровне.md"
+    "Database/Транспортный уровень модели OSI Transport.md",
+    "Database/Транспортный уровень модели OSI.md",
+    "Database/Транспортный уровень модели TCP-IP.md",
+    "Database/Взаимодействие сетевого и канального уровня в OSI.md",
+    "Database/Протокол ICMP Internet Control Message Protocol.md",
+    "Database/Протокол ARP Address Resolution Protocol.md",
+    "Database/Протокол DHCP Dynamic Host Configuration Protocol.md",
+    "Database/ACK acknowledgment.md",
+    "Database/Управляющие протоколы сетевого уровня.md",
+    "Database/Фрагментация в протоколе IP.md"
   ]
 }
