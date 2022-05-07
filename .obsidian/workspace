@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "23da754cfd922f8f",
+        "id": "d7acc679fbf67ee4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Database/CA Carrier-sense multiple access with collision avoidance Множественный доступ с прослушиванием несущей частоты с предотвращением коллизий.md",
+            "file": "Database/Протокол HTTP Hyper Text Transfer Protocol.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:OSI",
+                "query": "надежнос",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/CA Carrier-sense multiple access with collision avoidance Множественный доступ с прослушиванием несущей частоты с предотвращением коллизий.md",
+                "file": "Database/Протокол HTTP Hyper Text Transfer Protocol.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/CA Carrier-sense multiple access with collision avoidance Множественный доступ с прослушиванием несущей частоты с предотвращением коллизий.md"
+                "file": "Database/Протокол HTTP Hyper Text Transfer Protocol.md"
               }
             }
           }
@@ -115,17 +115,17 @@
     "width": 264,
     "collapsed": true
   },
-  "active": "23da754cfd922f8f",
+  "active": "d7acc679fbf67ee4",
   "lastOpenFiles": [
-    "Database/CA Carrier-sense multiple access with collision avoidance Множественный доступ с прослушиванием несущей частоты с предотвращением коллизий.md",
-    "Database/CD Carrier sense multiple Access with Collision Detection.md",
-    "Database/Эталонная модель OSI.md",
-    "Database/Физический уровень модели OSI Physical.md",
-    "Database/Уровни модели OSI.md",
-    "Database/Уровень представления модели OSI.md",
-    "Database/Уровень передачи данных модели OSI.md",
+    "Database/Протокол HTTP Hyper Text Transfer Protocol.md",
+    "Database/Протокол DNS Domain name system.md",
+    "Database/Прикладной уровень модели TCP-IP.md",
+    "Database/Прикладной уровень модели OSI Application.md",
+    "Database/Межсетевые экраны.md",
+    "Database/NAT network address translation трансляция сетевых адресов.md",
     "Database/Транспортный уровень модели OSI.md",
-    "Database/Среда передачи данных в модели OSI.md",
-    "Database/Сетевой уровень модели OSI Network.md"
+    "Протоколы интерфейсы и сервисы в стеке протоколов TCP/Протоколы интерфейсы и сервисы в стеке протоколов TCP-IP.md",
+    "Database/Интерфейс сокетов.md",
+    "Database/Ethernet.md"
   ]
 }
