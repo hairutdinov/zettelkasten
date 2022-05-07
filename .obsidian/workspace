@@ -7,8 +7,11 @@
         "id": "cb71284967b5e7dc",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Database/Протокол HTTP Hyper Text Transfer Protocol.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Database/Протокол HTTP Hyper Text Transfer Protocol.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Database/Протокол HTTP Hyper Text Transfer Protocol.md"
+              }
             }
           }
         ]
@@ -111,10 +117,10 @@
   },
   "active": "cb71284967b5e7dc",
   "lastOpenFiles": [
+    "Database/Протокол HTTP Hyper Text Transfer Protocol.md",
     "Templates/00 New Note Компьютерные сети.md",
     "Templates/00 New Note.md",
     "Database/ARPA Advanced Research Projects Agency Управление перспективного планирования научно исследовательских работ.md",
-    "Database/Протокол HTTP Hyper Text Transfer Protocol.md",
     "Database/Протокол DNS Domain name system.md",
     "Database/Прикладной уровень модели TCP-IP.md",
     "Database/Прикладной уровень модели OSI Application.md",
