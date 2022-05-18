@@ -8,6 +8,11 @@ Tags: #computer_networks #udemy
 
 It is a *reference* model
 
+It's breaks down comp.-to-comp. communication into 7 layers. They are broken up into:
+- [[Upper (host) layers]]
+- [[Lower (media) layers]]
+
+![[Pasted image 20220514115220.png]]
 
 ---
 ## Links
