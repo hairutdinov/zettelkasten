@@ -8,3 +8,5 @@ Tags: #computer_networks #udemy
 
 ---
 ## Links
+- [[IP addresses]]
+- [[MAC addresses]]

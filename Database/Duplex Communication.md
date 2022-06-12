@@ -9,3 +9,4 @@ Tags: #computer_networks #udemy
 
 ---
 ## Links
+- [[Methods of communication between devices]]
