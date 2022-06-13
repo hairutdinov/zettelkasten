@@ -5,6 +5,9 @@ Tags: #bash_script
 
 # {{title}}
 
+```bash
+
+```
 
 ---
 ## Links
