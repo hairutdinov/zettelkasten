@@ -11,7 +11,7 @@ Tags: #bash_script
 while [[ "${#}" -gt 0 ]]
 do
   echo "Number of parameters: ${#}"
-  echo "Parameter 1: ${1}"
+  echo "Parame ter 1: ${1}"
   echo "Parameter 2: ${2}"
   echo "Parameter 3: ${3}"
   echo
