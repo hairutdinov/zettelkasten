@@ -10,6 +10,11 @@ Tags: #bash_script
 shift "$(( OPTIND - 1))"
 
 echo "After the shift: ${@}"
+
+if [[ "${#}" -gt 0 ]]
+then
+        usage
+fi
 ```
 
 ---
