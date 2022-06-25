@@ -15,6 +15,12 @@ awk -F 'DATA:' -v OFS=',' '{print $2,$3}' awk.temp
  # print formatting
  awk -F 'DATA:' '{print $2 ";" $3}' awk.temp
  
+ # last column
+ awk '{print $NF}'
+ 
+ # column berfore last
+ awk '{print $(NF-1)}'
+ 
  ```
 
 ---
