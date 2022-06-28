@@ -32,6 +32,7 @@ echo '/home/bulat' | sed 's#/home/bulat#/export/users/bulats#'
 # deleting line, that match to pattern
 sed '/Second/d' love.txt
 
+
 # delete lines that begin with '#' and empty lines
 sed '/^#/d ; /^$/d' some-conf-file
 
