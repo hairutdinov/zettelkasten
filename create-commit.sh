@@ -6,4 +6,4 @@ DAY=$(date +%d)
 DATE="${YEAR}${MONTH}${DAY}"
 
 git add .
-git commit -m "${date}"
+git commit -m "${DATE}"

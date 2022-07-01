@@ -26,6 +26,9 @@ echo "${USER_NAME}:${PASSWORD}" | chpasswd
 # Immediately expire an account's password.  
 passwd -e ${USER_NAME}
 
+# remove expire password
+# sudo chage -E -1 ${USER_NAME}
+
 ```
 
 ---
