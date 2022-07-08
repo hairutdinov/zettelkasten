@@ -53,6 +53,9 @@ sed '2 s/my wife/sed/' love.txt
 
 # replace only on the line, where has 'Group' word
 sed '/Group/ s/my wife/sed/' love.txt
+
+
+find <mydir> -type f -exec sed -i 's/<string1>/<string2>/g' {} +
 ```
 
 ---
