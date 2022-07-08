@@ -8,6 +8,15 @@ Tags: #linux  #bash_script
 sed stands for **Stream Editor**
 
 ```bash
+# print lines 1,2,3
+sed -n '1,3p' sed_test.txt
+
+# print lines that contain 'string'
+sed -n '/string/p' sed_test.txt
+
+# print lines that do not contain 'string'
+ sed -n '/string/!p' sed_test.txt
+
 sed 's/search-pattern/replacement-string/flags'
 
 # flag i - insetsitive
@@ -54,6 +63,8 @@ sed '2 s/my wife/sed/' love.txt
 # replace only on the line, where has 'Group' word
 sed '/Group/ s/my wife/sed/' love.txt
 
+# print string(s) that begin with <INSERT home_call.> and end with <);>
+sed -n '/^INSERT home_call./,/);$/!p' sed_test.txt
 
 find <mydir> -type f -exec sed -i 's/<string1>/<string2>/g' {} +
 ```
