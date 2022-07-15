@@ -25,6 +25,8 @@ git log -- file_2
 
 # show commits log created before jun, 1st 2022
 git log --before 2022-06-01
+git log --since 2022-05-30 --before 2022-06-01 --no-merges
+
 
 # show commits log contain message 'bug fix'
 git log --grep 'bug fix'
